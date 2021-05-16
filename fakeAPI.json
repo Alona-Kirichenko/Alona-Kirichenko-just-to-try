@@ -1,0 +1,12 @@
+{
+  "computers": [
+    {
+      "id": "1",
+      "mark": "Samsung",
+      "model": "Galaxy Book Pro 360 15.6 2-i-1 i5/8GB/512GB",
+      "color": "grey",
+      "info": "Snabb anslutnint bla bla bla",
+      "price": "14 490 SEK"
+    }
+  ]
+}
